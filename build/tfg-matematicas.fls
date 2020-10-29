@@ -1,7 +1,7 @@
 PWD c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex
 INPUT C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\plantilla-tfg con-metadatos.tex
-OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.log
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\tfg-matematicas.tex
+OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.log
 INPUT .\tfg-uam.cls
 INPUT tfg-uam.cls
 INPUT .\tfg-uam.cls
@@ -484,10 +484,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux
-OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux
+OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -528,18 +528,18 @@ INPUT C:\Users\Pedro R-Ponga\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\g
 INPUT C:\Users\Pedro R-Ponga\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Pedro R-Ponga\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Pedro R-Ponga\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.pdf
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.pdf
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm2074.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx2074.tfm
@@ -572,21 +572,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
-INPUT .\logouam.pdf
-INPUT logouam.pdf
-INPUT .\logouam.pdf
-INPUT .\logouam.pdf
-INPUT .\logouam.pdf
-INPUT .\logodpto.pdf
-INPUT logodpto.pdf
-INPUT .\logodpto.pdf
-INPUT .\logodpto.pdf
-INPUT .\logodpto.pdf
-INPUT .\base.pdf
-INPUT base.pdf
-INPUT .\base.pdf
-INPUT .\base.pdf
-INPUT .\base.pdf
 INPUT C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
@@ -598,23 +583,23 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1440.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\eccc1095.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.toc
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.toc
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.toc
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.toc
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.toc
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.toc
+OUTPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecti1095.tfm
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
-INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
+INPUT c:\Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out
 INPUT C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
 INPUT C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
 INPUT C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk

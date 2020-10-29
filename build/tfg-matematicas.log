@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.29)  29 OCT 2020 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.29)  29 OCT 2020 23:18
 entering extended mode
-**"c:/Users/Pedro R-Ponga/OneDrive/DobleGrado/TFGs/fda-latex/plantilla-tfg con-metadatos.tex"
-("c:/Users/Pedro R-Ponga/OneDrive/DobleGrado/TFGs/fda-latex/plantilla-tfg con-metadatos.tex"
+**"c:/Users/Pedro R-Ponga/OneDrive/DobleGrado/TFGs/fda-latex/tfg-matematicas.tex"
+("c:/Users/Pedro R-Ponga/OneDrive/DobleGrado/TFGs/fda-latex/tfg-matematicas.tex"
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (tfg-uam.cls
 Document Class: tfg-uam 2017/06/10 v1 LaTeX document class
@@ -362,7 +362,7 @@ Package: amsthm 2020/05/29 v2.20.6
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count282
 \l__pdf_internal_box=\box50
-) ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux"
+) ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux"
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 LaTeX Info: Redefining \. on input line 26.
@@ -372,7 +372,7 @@ LaTeX Info: Redefining \% on input line 27.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 )
-\openout1 = `"plantilla-tfg con-metadatos.aux"'.
+\openout1 = `tfg-matematicas.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -457,9 +457,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
- ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out") ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.out")
+ ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out") ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.out")
 \@outlinefile=\write3
-\openout3 = `"plantilla-tfg con-metadatos.out"'.
+\openout3 = `tfg-matematicas.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
  ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
@@ -468,30 +468,11 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
  ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<logouam.pdf, id=27, 427.5975pt x 142.5325pt>
-File: logouam.pdf Graphic file (type pdf)
-<use logouam.pdf>
-Package pdftex.def Info: logouam.pdf  used on input line 38.
-(pdftex.def)             Requested size: 187.78462pt x 62.59596pt.
-<logodpto.pdf, id=28, 753.81625pt x 374.39874pt>
-File: logodpto.pdf Graphic file (type pdf)
-<use logodpto.pdf>
-Package pdftex.def Info: logodpto.pdf  used on input line 38.
-(pdftex.def)             Requested size: 126.03064pt x 62.59596pt.
-
-
-pdfTeX warning: pdflatex (file ./base.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<base.pdf, id=29, 1517.67pt x 144.54pt>
-File: base.pdf Graphic file (type pdf)
-<use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 38.
-(pdftex.def)             Requested size: 597.50787pt x 56.9063pt.
-[1
+) [1
 
 
 
-{C:/Users/Pedro R-Ponga/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./logouam.pdf> <./logodpto.pdf> <./base.pdf>] [2
+{C:/Users/Pedro R-Ponga/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2
 
 ]
 LaTeX Info: Redefining \. on input line 43.
@@ -506,7 +487,7 @@ LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
  [3] [4
 
-] ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.toc"
+] ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.toc"
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 2.
@@ -517,7 +498,7 @@ LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
 )
 \tf@toc=\write4
-\openout4 = `"plantilla-tfg con-metadatos.toc"'.
+\openout4 = `tfg-matematicas.toc'.
 
  [5] [6
 
@@ -560,7 +541,7 @@ LaTeX Info: Redefining \% on input line 223.
 
 ] [13] [14
 
-] ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.aux"
+] ("c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.aux"
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 LaTeX Info: Redefining \. on input line 26.
@@ -570,21 +551,21 @@ LaTeX Info: Redefining \% on input line 27.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 )
-Package rerunfilecheck Info: File `"plantilla-tfg con-metadatos".out' has not changed.
+Package rerunfilecheck Info: File `tfg-matematicas.out' has not changed.
 (rerunfilecheck)             Checksum: 34C82F764F96F9E9E2F5833A6ACAC4EF;360.
  ) 
 Here is how much of TeX's memory you used:
- 9577 strings out of 480236
- 138792 string characters out of 2890341
- 478788 words of memory out of 3000000
- 25888 multiletter control sequences out of 15000+200000
+ 9559 strings out of 480236
+ 138245 string characters out of 2890341
+ 478614 words of memory out of 3000000
+ 25870 multiletter control sequences out of 15000+200000
  554848 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,77p,1502b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 72i,12n,77p,1490b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1200.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Pedro R-Ponga\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\plantilla-tfg con-metadatos.pdf" (20 pages, 277282 bytes).
+Output written on "c:/Users\Pedro R-Ponga\OneDrive\DobleGrado\TFGs\fda-latex\build\tfg-matematicas.pdf" (20 pages, 215679 bytes).
 PDF statistics:
- 575 PDF objects out of 1000 (max. 8388607)
+ 562 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 500000)
- 64 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -181,14 +181,6 @@
 
 \newcommand{\m@ketitle}{%
 \begin{titlepage}
-\AddToShipoutPicture*{\AtPageUpperLeft{%
-    % M\'argenes:  
-    \raisebox{-4cm}{\hspace{2cm}\includegraphics[height=2.2cm]{logouam}% 
-    \hspace{5.54cm}% 21cm-(2+6.27+5.19+2)cm
-                    \includegraphics[height=2.2cm]{logodpto}% 
-                    }}}
-                    
-\AddToShipoutPicture*{\includegraphics[width=21cm]{base}}
 \centering
 \vspace*{2cm}
 
